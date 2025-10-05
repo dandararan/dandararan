@@ -3,6 +3,10 @@
 
 ![Image](https://github.com/user-attachments/assets/38600714-02cd-459d-b3cd-2975facf5e04)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/38600714-02cd-459d-b3cd-2975facf5e04" alt="Sublime's custom image"/>
+</p>
+
 - 🔭 I’m currently working on **Cavite State University Bacoor City Campus**
 
 - 💬 Ask me about **React, NextJS, Php, JavaScript, Databases**
