@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danilo C. Borreros Jr.</h1>
 <h3 align="center">A passionate Full stack Developer from Philippines.</h3>
 
-![Image](https://github.com/user-attachments/assets/38600714-02cd-459d-b3cd-2975facf5e04)  
-<style>
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-</style>
+<div style="text-align:center;">
+  ![Image](https://github.com/user-attachments/assets/38600714-02cd-459d-b3cd-2975facf5e04)
+</div>
 
 - 🔭 I’m currently working on **Cavite State University Bacoor City Campus**
 
